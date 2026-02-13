@@ -1,5 +1,4 @@
-#Html
-Simple Colored Page
+#Simple Colored Page
 
 This project demonstrates basic HTML and CSS styling.
 
